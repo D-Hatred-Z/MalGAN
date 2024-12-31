@@ -1,1 +1,1 @@
-# MalGAN
+This repository is about code malgan based on Weiwei Hu, Ying Tan. Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN (https://arxiv.org/abs/1702.05983) and code MalGAN (https://medium.com/@harshit.utd/mastering-mal-gans-a-step-by-step-guide-to-building-your-own-mal-gan-model-f20aa1a097c8)
